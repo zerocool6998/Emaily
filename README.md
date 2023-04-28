@@ -1,0 +1,3 @@
+# Emaily
+
+this is a nodejs react project implementing social auth and stripe ...
