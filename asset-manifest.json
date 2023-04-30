@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zerocool6998.github.io/static/css/main.364023d3.css",
+    "main.js": "/zerocool6998.github.io/static/js/main.8975a5b0.js",
+    "index.html": "/zerocool6998.github.io/index.html",
+    "main.364023d3.css.map": "/zerocool6998.github.io/static/css/main.364023d3.css.map",
+    "main.8975a5b0.js.map": "/zerocool6998.github.io/static/js/main.8975a5b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.364023d3.css",
+    "static/js/main.8975a5b0.js"
+  ]
+}
